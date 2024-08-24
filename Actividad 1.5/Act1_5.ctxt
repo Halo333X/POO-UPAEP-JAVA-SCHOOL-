@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Act1_5
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=res
+comment2.target=void\ showRes(double)
+comment3.params=
+comment3.target=void\ sumatoria1()
+comment4.params=
+comment4.target=void\ sumatoria2()
+comment5.params=
+comment5.target=void\ sumatoria3()
+comment6.params=
+comment6.target=void\ sumatoria4()
+comment7.params=
+comment7.target=void\ sumatoria5()
+comment8.params=
+comment8.target=void\ sumatoria6()
+comment9.params=
+comment9.target=void\ startProgram()
+numComments=10
